@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../git_test"
+		},
+		{
+			"path": "../odin-recipes"
+		},
+		{
+			"path": "../landing-page"
+		},
+		{
+			"path": "../Fundamentals_p1"
+		},
+		{
+			"path": "../MozillaCount"
+		},
+		{
+			"path": "../project_rps"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project_rps"
+	}
+}
